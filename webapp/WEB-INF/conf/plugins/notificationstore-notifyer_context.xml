@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd" >
+
+      
+    <!-- Notifyers -->
+  
+    <!--<bean id="notificationstore.mailNotifyer" class="fr.paris.lutece.plugins.notificationstore.modules.notifyer.service.notifyers.SendEmailService"/>-->
+    <!--<bean id="notificationstore.crmNotifyer"  class="fr.paris.lutece.plugins.notificationstore.modules.notifyer.service.notifyers.NotifyCrmService"/>-->
+    <!--<bean id="notificationstore.statsNotifyer" class="fr.paris.lutece.plugins.notificationstore.modules.notifyer.service.notifyers.SendStatisticsService"/>-->
+
+    <!--<bean id="notificationstore.smsNotifyer"  class="fr.paris.lutece.plugins.notificationstore.modules.notifyer.service.notifyers.mock.SendSmsMockService"/>-->
+    
+</beans>
